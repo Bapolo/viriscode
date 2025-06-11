@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+}
+
+@import "tailwindcss";
+
+/* @theme {
+  --bg-blue-default: #4285F4;
+  --bg-red-default: #EA4335;
+  --bg-yellow-dafault: #FBBC05;
+  --bg-green-default: #34A853; hover:#355e40
+} */
