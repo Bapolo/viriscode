@@ -19,7 +19,7 @@ function Header() {
     const navegar = useNavigate()
 
     return (
-        <header className="w-full flex justify-between items-center px-4 py-3 relative md:static md:gap-2 transition text-xl bg-white">
+        <header className="w-full flex justify-between items-center px-4 py-3  relative md:static md:gap-2 transition text-xl bg-white">
 
             <figure className="p-0" onClick={() => navegar("/")}>
                 <img className="w-20" src={logo} alt="logo vires code" />
