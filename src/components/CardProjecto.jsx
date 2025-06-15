@@ -1,6 +1,6 @@
 function CardProjecto() {
     return (
-        <li className="border border-gray-300" style={{flexBasis: "200px"}}>
+        <li className="border border-gray-300" style={{flexBasis: "2000px"}}>
             <div className="bg-gray-500 h-20 text-center text-white">image</div>
             <section className="p-2 ">
                 <h3>titulo</h3>

@@ -8,6 +8,14 @@ function ProjetoDestaque() {
             <CardProjecto />
             <CardProjecto />
             <CardProjecto />
+            <CardProjecto />
+            <CardProjecto />
+            <CardProjecto />
+            <CardProjecto />
+            <CardProjecto />
+            <CardProjecto />
+            <CardProjecto />
+            <CardProjecto />
         </ul>
     )
 }

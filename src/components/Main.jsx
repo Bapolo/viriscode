@@ -21,17 +21,17 @@ function Main() {
 
                     <p className="mb-5">A Vires Code é uma empresa jovem, ousada e conectada com as necessidades reais do mercado. Fundada por Jesus Bapolo, nossa missão é entregar tecnologia acessível, inteligente e que gera resultados.</p>
 
-                    <ul className="text-md border-t border-t-gray-300 py-2 flex flex-col justify-center gap-2 md:flex-row md:overflow-x-auto md:px-2 md:items-center md:justify-start">
+                    <ul className="text-md border-t mt-10 border-t-gray-300 py-2 flex flex-col justify-center gap-2 md:flex-row md:overflow-x-auto md:px-2 md:items-center md:justify-start">
 
-                        <CardDiferencial icon={FaPalette} descricao="Design responsivo e moderno" corIcon="text-[#EA4335]" />
+                        <CardDiferencial icon={FaPalette} descricao="Design responsivo e moderno" corIcon="text-[#4285F4]" />
 
-                        <CardDiferencial icon={BsLightningChargeFill} descricao="Performance otimizada" corIcon="text-[#FBBC05]" />
+                        <CardDiferencial icon={BsLightningChargeFill} descricao="Performance otimizada" corIcon="text-[#4285F4]" />
 
-                        <CardDiferencial icon={BsLockFill} descricao="Segurança e boas práticas" corIcon="text-[#34A853]" />
+                        <CardDiferencial icon={BsLockFill} descricao="Segurança e boas práticas" corIcon="text-[#4285F4]" />
 
                         <CardDiferencial icon={FaHandshakeSimple} descricao="Atendimento próximo e humanizado" corIcon="text-[#4285F4]" />
 
-                        <CardDiferencial icon={FaTools} descricao="Projetos personalizados do zero" corIcon="text-[#EA4335]" />
+                        <CardDiferencial icon={FaTools} descricao="Projetos personalizados do zero" corIcon="text-[#4285F4]" />
                     </ul>
                 </section>
 
