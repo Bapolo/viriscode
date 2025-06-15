@@ -8,7 +8,7 @@
 @import "tailwindcss";
 
 /* @theme {
-  --bg-blue-default: #4285F4;
+  --bg-blue-default: #4285F4; hover: bg-[#668cca]
   --bg-red-default: #EA4335;
   --bg-yellow-dafault: #FBBC05;
   --bg-green-default: #34A853; hover:#355e40
