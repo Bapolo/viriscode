@@ -19,7 +19,7 @@ function Main() {
                 <section className="flex-1">
                     <h2 className="text-2xl text-gray-900 mb-5">Por que escolher a Viris code?</h2>
 
-                    <p className="mb-5">A Vires Code é uma empresa jovem, ousada e conectada com as necessidades reais do mercado. Fundada por Jesus Bapolo, nossa missão é entregar tecnologia acessível, inteligente e que gera resultados.</p>
+                    <p className="mb-5">A Viris Code é uma empresa jovem, ousada e conectada com as necessidades reais do mercado. Fundada por Jesus Bapolo, nossa missão é entregar tecnologia acessível, inteligente e que gera resultados.</p>
 
                     <ul className="text-md border-t mt-10 border-t-gray-300 py-2 flex flex-col justify-center gap-2 md:flex-row md:overflow-x-auto md:px-2 md:items-center md:justify-start">
 
